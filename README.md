@@ -30,5 +30,9 @@ All the project codes are committed in GitHub repository. GitHub Actions will ta
 
 <a href="https://medium.com/thelorry-product-tech-data/amazon-ec2-deployment-complete-ci-cd-pipeline-using-github-actions-and-aws-codedeploy-8a477123ff7e?source=friends_link&sk=9e7f3de840f32925370f65b097db3674">Click here to see the full article/tutorial!</a>
 
+## Notes
+
+Test 1
+
 
 
